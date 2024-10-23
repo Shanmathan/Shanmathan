@@ -1,4 +1,8 @@
 
+<div align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk3MTEyNDEsIm5iZiI6MTcyOTcxMDk0MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIzVDE5MTU0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiZTg3NDQ5NWFlZGIwMmFmMTQ2ZWEwM2YwNzEwZjBjZDQ5NWRlODZjNzUxNWMzNDFhOGQxNDg4N2JkODMwZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8X2tKgxsrQLrH3gb0_KuqAfvi1Llo9DgRQujEzEqJyU">
+</div>
+
 
 <h1 align="center" style="border: none; text-decoration: none;">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shanmathan+T+S!;Welcome+to+my+GitHub+profile+👋!&center=true&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100">
@@ -47,6 +51,7 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 <details>
 <summary>🚗 Autonomous Driving System Simulator</summary>
 
+- 🤝 Industrial Collaboration with Capgemini
 - 🛠️ Tools: Linux, Unreal Engine, Autoware
 - 🎯 Simulating vehicle dynamics in 3D environments
 
@@ -71,6 +76,10 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 
 
 
+## <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="30px"> Achievements
+
+- 🏆 Finalist in **Techgium 2024** by L&T
+- 🏅 Published research at IEEE AMATHE 2024
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Let's Connect!
@@ -83,7 +92,7 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 </p>
 
 <div align="center">
@@ -91,7 +100,7 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 </p>
 
 <div align="center">
@@ -109,7 +118,7 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 </h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=1:00c6ff,1:0072ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
 
