@@ -109,8 +109,7 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 </h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=1:00c6ff,1:0072ff&height=100&section=footer"/>
 </div>
-
 
 
