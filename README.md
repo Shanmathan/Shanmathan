@@ -119,7 +119,6 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shanmathan&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-   <img src="https://img.shields.io/github/stars/shanmathan&color=blueviolet&style=for-the-badge" alt="Profile Stars"/>
 </div>
 
 <h3 align="center">
