@@ -83,13 +83,6 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 </details>
 
 
-
-## <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="30px"> Achievements
-
-- 🏆 Finalist in **Techgium 2024** by L&T
-- 🏅 Published research at IEEE AMATHE 2024
-
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Let's Connect!
 
 <div align="center">
