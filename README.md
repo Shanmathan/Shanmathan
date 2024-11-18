@@ -1,7 +1,3 @@
-
-<div align="center">
-
-
 <h1 align="center" style="border: none; text-decoration: none;">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shanmathan+T+S!;Welcome+to+my+GitHub+profile+👋!&center=true&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100">
 </h1>
