@@ -98,8 +98,9 @@ I'm an **Electronics and Communication Engineering** student passionate about **
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathan&layout=compact&theme=radical)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathan&layout=compact&theme=radical" >
+</p>
 ---
 
 <div align="center">
