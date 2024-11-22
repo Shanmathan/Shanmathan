@@ -101,7 +101,6 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathan&layout=compact&theme=radical" >
 </p>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shanmathan&color=blueviolet&style=for-the-badge" alt="Profile Views" />
