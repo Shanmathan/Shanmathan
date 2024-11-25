@@ -99,7 +99,7 @@ I'm an **Electronics and Communication Engineering** student passionate about **
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathan&hide=css,scss,html&layout=compact&theme=radical" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathan&hide=css,scss,html&layout=compact&theme=radical" >
 </p>
 
 <div align="center">
