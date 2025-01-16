@@ -1,13 +1,10 @@
 <h1 align="center" style="border: none; text-decoration: none;">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shanmathan+T+S!;Welcome+to+my+GitHub+profile+👋!&center=true&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100">
 </h1>
-
-<div align="center">
+<h3 align="center">A passionate Embedded Engineer and AI Enthusiast from India</h3>
+<div align="left">
 <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif">
 </div>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 <h3 align="center">A passionate Embedded Engineer and AI Enthusiast from India</h3>
 
