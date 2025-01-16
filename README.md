@@ -9,10 +9,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-I'm an **Electronics and Communication Engineering** student passionate about **IoT, Microcontrollers, Front-End Development, AI and LLM**. I enjoy building innovative solutions and exploring emerging technologies through hands-on projects.
+<h3 align="center">A passionate Embedded Engineer and AI Enthusiast from India</h3>
 
-- 🎓 **B.E. ECE** at Sri Ramakrishna Engineering College
-- 💻 Aspiring **Software Developer** with interests in autonomous systems and AI.
+- 💬 Ask me about **c, python, LLM, Langchain, React, Next**
+
+- 📫 How to reach me **shanmathan.2102207@srec.ac.in**
+
+- ⚡ Fun fact **I love learning new things.**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Tech Stack
 
